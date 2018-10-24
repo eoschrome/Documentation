@@ -4,8 +4,10 @@
 
 <!-- MarkdownTOC depth=4 autolink=true bracket=round list_bullets="-*+" -->
 
-- [introduction](#introduction)
-
+- [Introduction](#introduction)
+  * [Blockchain Trilemma](#blockchain-trilemma)
+- [Problems in EOS](#problems-in-eos)
+  * [Asset Risk 1. The Whale Investors](#asset-risk-1-the-whale-investors)
 <!-- /MarkdownTOC -->
 
 <EOS CHROME 목차> 
@@ -28,21 +30,15 @@ EOS CHROME 정리
 연구 및 개발 계획
 참고문헌
 
-
-
-
-EOS CHROME
-
-# Introduction
-현재 많은 사람이 알고 있는 비트코인은 제 1세대 블록체인으로 개인의 익명성과 사생활 보호를 최고의 가치로 두는 Cypherpunk 정신에 근간을 둔다. 비트코인은 중재자 없는 개인 간 p2p금전 거래에 최초로 블록체인 기술이 적용된 사례라고 할 수 있다. 제 2 세대 블록체인으로 Vitalik Buterin에 의해 개발된 이더리움 블록체인 네트워크를 들 수 있다. 이더리움은 p2p 금전 거래만을 위한 1세대 비트코인 네트워크를 대폭 개선하여 기존 p2p 금전 거래와 더불어 스마트 컨트랙트라는 새로운 개념을 자체 블록체인 네트워크에 적용하였다. 이더리움의 스마트 컨트랙트는 블록체인 기술의 특징인 비가역성(irreversibility)과 불변성(immutability)을 활용하여 블록체인 내에 입력 된 프로그래밍 코드로, 입력된 코드가 특정 조건을 만족할 시 자동적으로 집행 되는 특징을 갖는다. 오늘 날, 전 세계 많은 사람들은 암호 화폐 p2p 거래에 제 1세대 블록체인과 제 2세대 블록체인으로 대표 되는 비트코인과 이더리움을 널리 사용하고 있지만, PoW (Proof of Work) 합의 알고리즘을 적용한 비트코인 블록체인과 PoW와 PoS (Proof of Stake)의 하이브리드 모델을 적용하고 있는 이더리움 블록체인의 기술적 한계를 체감하고 있다. 
-
+Copyright © 2018 IBCT
 
 DISCLAIMER: This eosChrome Technical White Paper v1 is for information purposes only. IBCT does not guarantee the accuracy of or the conclusions reached in this white paper, and this white paper is provided “as is”. IBCT does not make and expressly disclaims all representations and warranties, express, implied, statutory or otherwise, whatsoever, including, but not limited to: (i) warranties of merchantability, fitness for a particular purpose, suitability, usage, title or noninfringement; (ii) that the contents of this white paper are free from error; and (iii) that such contents will not infringe third-party rights. IBCT and its affiliates shall have no liability for damages of any kind arising out of the use, reference to, or reliance on this white paper or any of the content contained herein, even if advised of the possibility of such damages. In no event will IBCT or its affiliates be liable to any person or entity for any damages, losses, liabilities, costs or expenses of any kind, whether direct or indirect, consequential, compensatory, incidental, actual, exemplary, punitive or special for the use of, reference to, or reliance on this white paper or any of the content contained herein, including, without limitation, any loss of business, revenues, profits, data, use, goodwill or other intangible losses.
 
 
+# Introduction
+현재 많은 사람이 알고 있는 비트코인은 제 1세대 블록체인으로 개인의 익명성과 사생활 보호를 최고의 가치로 두는 Cypherpunk 정신에 근간을 둔다. 비트코인은 중재자 없는 개인 간 p2p금전 거래에 최초로 블록체인 기술이 적용된 사례라고 할 수 있다. 제 2 세대 블록체인으로 Vitalik Buterin에 의해 개발된 이더리움 블록체인 네트워크를 들 수 있다. 이더리움은 p2p 금전 거래만을 위한 1세대 비트코인 네트워크를 대폭 개선하여 기존 p2p 금전 거래와 더불어 스마트 컨트랙트라는 새로운 개념을 자체 블록체인 네트워크에 적용하였다. 이더리움의 스마트 컨트랙트는 블록체인 기술의 특징인 비가역성(irreversibility)과 불변성(immutability)을 활용하여 블록체인 내에 입력 된 프로그래밍 코드로, 입력된 코드가 특정 조건을 만족할 시 자동적으로 집행 되는 특징을 갖는다. 오늘 날, 전 세계 많은 사람들은 암호 화폐 p2p 거래에 제 1세대 블록체인과 제 2세대 블록체인으로 대표 되는 비트코인과 이더리움을 널리 사용하고 있지만, PoW (Proof of Work) 합의 알고리즘을 적용한 비트코인 블록체인과 PoW와 PoS (Proof of Stake)의 하이브리드 모델을 적용하고 있는 이더리움 블록체인의 기술적 한계를 체감하고 있다. 
 
-
-블록체인의 Trilemma
+## Blockchain Trilemma
 현재 1세대, 2세대 블록체인이 직면한 기술적 한계의 대표적인 예로 네트워크가 확장됨에 따라 초당 거래 처리 속도 (TPS)가 크게 개선되지 못하는 확장성(Scalability) 문제를 꼽을 수 있다. 하지만 블록체인 기술의 확장성 문제를 해결 함에 있어서 발목을 잡는 두 가지 요소가 존재 하는데, 이는 바로 분산화 (Decentralization) 문제와 안정성 (Safety) 문제이다. 이러한 확장성, 분산화 그리고 안정성 문제를 포괄한 개념이 바로 블록체인의 Trilemma이다. 
 
 블록체인의 Trilemma는 확장성, 분산화, 안정성 모두 양적(positive) 방향으로 개선 시킬 수 없고 일정 요소를 강화하면 다른 요소를 희생하는 등가 교환 구조와 같다. 예를 들어, 네트워크의 확장성을 확보하기 위해 기존보다 적은 수의 노드를 두어 보다 빠른 합의 과정을 구현할 수 있지만 노드의 수가 줄어들수록 네트워크 분산화 효과와 안정성이 줄어든다. 같은 맥락으로, 많은 수의 노드를 두어 네트워크 분산화와 안정성을 달성할 수 있지만 확장성이 줄어들게 된다. 
@@ -51,10 +47,10 @@ DISCLAIMER: This eosChrome Technical White Paper v1 is for information purposes 
 
 하지만 아직까지 EOS는 블록체인의 Trilemma 문제를 풀지 못했다. 현재의 EOS는 너무나 많은 문제점을 갖고 있으며 네트워크의 본질적인 구조적 변경 없이 블록체인의 Trilemma 문제를 해결할 수 없다. 이번 컨셉 페이퍼를 통해 EOS의 문제점을 자세히 살펴보고 블록체인의 Trilemma 문제 해결을 위한 새로운 대안, EOS Chrome 을  제안하고자 한다. 
 
-EOS 의 문제점
+# Problems in EOS
 
 
-자산 리스크 1: 고래 투자자 
+## Asset Risk 1. The Whale Investors 
 
 <EOS 고래 투자자 현황>
 
