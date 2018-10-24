@@ -1,4 +1,12 @@
-Sep 12, 2018
+# EOS CHROME Technical White Paper v1.0
+
+**Oct 24, 2018**
+
+<!-- MarkdownTOC depth=4 autolink=true bracket=round list_bullets="-*+" -->
+
+- [introduction](#introduction)
+
+<!-- /MarkdownTOC -->
 
 <EOS CHROME 목차> 
 Introduction
@@ -25,7 +33,7 @@ EOS CHROME 정리
 
 EOS CHROME
 
-Introduction
+# Introduction
 현재 많은 사람이 알고 있는 비트코인은 제 1세대 블록체인으로 개인의 익명성과 사생활 보호를 최고의 가치로 두는 Cypherpunk 정신에 근간을 둔다. 비트코인은 중재자 없는 개인 간 p2p금전 거래에 최초로 블록체인 기술이 적용된 사례라고 할 수 있다. 제 2 세대 블록체인으로 Vitalik Buterin에 의해 개발된 이더리움 블록체인 네트워크를 들 수 있다. 이더리움은 p2p 금전 거래만을 위한 1세대 비트코인 네트워크를 대폭 개선하여 기존 p2p 금전 거래와 더불어 스마트 컨트랙트라는 새로운 개념을 자체 블록체인 네트워크에 적용하였다. 이더리움의 스마트 컨트랙트는 블록체인 기술의 특징인 비가역성(irreversibility)과 불변성(immutability)을 활용하여 블록체인 내에 입력 된 프로그래밍 코드로, 입력된 코드가 특정 조건을 만족할 시 자동적으로 집행 되는 특징을 갖는다. 오늘 날, 전 세계 많은 사람들은 암호 화폐 p2p 거래에 제 1세대 블록체인과 제 2세대 블록체인으로 대표 되는 비트코인과 이더리움을 널리 사용하고 있지만, PoW (Proof of Work) 합의 알고리즘을 적용한 비트코인 블록체인과 PoW와 PoS (Proof of Stake)의 하이브리드 모델을 적용하고 있는 이더리움 블록체인의 기술적 한계를 체감하고 있다. 
 
 
