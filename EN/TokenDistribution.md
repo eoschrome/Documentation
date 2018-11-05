@@ -27,8 +27,14 @@ EOS CHROME's R&D Team, Institue of Blockchain TEchnology & Service-HK(IBCT-HK), 
 ### Project Funds
 10% of the total supply will be used for R&D of DAPPs, platform solutions, platform engines, and etc.
 
-## 
+
 ## Current Token Distribution Report
+Currently 300 million CR tokens out of 1 billion CR tokens have been issued and distributed as shown below. 200 million CR tokens issued to EOS CHROME's R&D team are locked up, and the rest of the tokens are circulating in market.
+
+R&D Team: 200 million CRs locked up (100%)
+엔젤 투자자: 50 million CRs (50%)
+마케팅: 50 million CRs (25%)
+
 
 ## Exchange Listing Report
 EOS CHROME is currently traded on coin exchange platforms shown below.
