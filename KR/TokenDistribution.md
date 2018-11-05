@@ -10,7 +10,7 @@ EOS CHROME은 매년 현재 코인 총 량의 5%의 인플레이션을 가지며
 ![alt text](./image/TokenDist.png)
 
 ### 기술 팀
-EOS CHROME 기술팀인 Institue of Blockchain Techonolgy & Service-HK(IBCT-HK)는 총 발행량의 20%를 1년동안 lock-up 상태로 보유한다.
+EOS CHROME 기술팀인 Institue of Blockchain Techonolgy & Service-HK(IBCT-HK)는 총 발행량의 20%를 12개월 동안 lock-up 상태로 보유한다.
 
 ### 엔젤 투자자
 EOS CHROME의 엔젤 투자자들에게 총 발행량의 10%를 판매한다.
@@ -29,7 +29,10 @@ EOS CHROME의 엔젤 투자자들에게 총 발행량의 10%를 판매한다.
 
 ## 
 ## 토큰 분배 현황
-
+현재 총 발행 계획량 10억개 중 3억개의 토큰이 발행되었으며 상세 항목은 아래와 같다. 현재 기술팀이 보유한 2억개의 토큰은 lock-up 된 상태이며, 나머지 1억개의 토큰이 시장에 유통되고 있다.
+1. 기술팀: 2억 CR lock-up (100%)
+2. 엔젤 투자자: 5천만 CR (50%)
+3. 마케팅: 5천만개 (25%)
 ## 상장 현황
 현재 EOS CHROME은 P2P 거래 뿐 아니라 거래소에 상장되어 거래가 가능하다. EOS CHROME이 상장되어 있는 거래소는 아래와 같다.
 1. PURCOW (https://www.purcow.io)
