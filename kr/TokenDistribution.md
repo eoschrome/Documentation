@@ -7,7 +7,7 @@ EOS CHROME의 총 발행량은 10억 Chrome(CR)이다.
 EOS CHROME은 매년 현재 코인 총 량의 5%의 인플레이션을 가지며 메인넷 런칭 이전 테스트넷 운영을 통하여 인플레이션 비율에 대한 조정이 가능하다.
 
 ## 토큰 분배 계획
-![alt text](eosCHROME/Documentation/image/TokenDist.png)
+![alt text](./image/TokenDist.png)
 
 ### 기술 팀
 EOS CHROME 기술팀인 Institue of Blockchain Techonolgy & Service-HK(IBCT-HK)는 총 발행량의 20%를 1년동안 lock-up 상태로 보유한다.
