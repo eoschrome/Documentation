@@ -1,8 +1,8 @@
 # EOS_CHROME Technical White Paper
 
-- [English](TechnicalWhitePaper.md)
+- [English](En/TechnicalWhitePaper.md)
 - [Chinese](Cn/TechnicalWhitePaper.md)
-- [Korean](Kr/TechnicalWhitePaper.md)
+- [Korean](kr/TechnicalWhitePaper.md)
 
 
 # Translation Guide
