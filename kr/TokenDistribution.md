@@ -29,3 +29,7 @@ EOS CHROME의 엔젤 투자자들에게 총 발행량의 10%를 판매한다.
 
 ## 
 ## 토큰 분배 현황
+
+## 상장 현황
+현재 EOS CHROME은 P2P 거래 뿐 아니라 거래소에 상장되어 거래가 가능하다. EOS CHROME이 상장되어 있는 거래소는 아래와 같다.
+1. PURCOW (https://www.purcow.io)
