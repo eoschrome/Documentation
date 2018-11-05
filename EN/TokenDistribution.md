@@ -4,7 +4,7 @@
 The total supply of EOS CHROME is 1,000,000,000(one billion) Chrome(CR).
 
 ## Inflation
-EOS CHROME has a 5% of annual toekn inflation. This rate can be adjusted in the future before the mainnet launching.
+EOS CHROME has a 5% of annual token inflation. This rate can be adjusted in the future before the mainnet launching.
 
 ## Token Distribution Plan
 ![alt text](./image/TokenDist.png)
