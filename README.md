@@ -4,7 +4,7 @@
 - [Chinese](CN/TechnicalWhitePaper.md)
 - [Korean](KR/TechnicalWhitePaper.md)
 
-# Technical Tasks
+# On-Going Technical Tasks
 Tasks to be done before launching EOS CHROME Mainnet.
 
 ## Analysis
