@@ -50,6 +50,5 @@ EOS CHROME 의 B&E DPOS는 CRM가 투표를 진행할 때마다 사라지기 때
 UTC+9 기준 매일 00:00시에 현재까지 지급받은 투표수를 취합하여 Moving Average Computation 방식으로 투표와 투표 영향력 차감이 진행된다. 
 
 전반적인 Structure는 다음과 같다: 
-![alt text](./image/Burn&Earn Structure ver0.01.jpg)
 
- 
+ <img align="center" src="https://github.com/eosCHROME/Documentation/blob/master/KR/image/Burn%26Earn%20Structure%20ver0.01.jpg" width="800px" height="500px" />
