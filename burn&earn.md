@@ -49,6 +49,11 @@ EOS CHROME 의 B&E DPOS는 CRM가 투표를 진행할 때마다 사라지기 때
 따라서, EOS CHROME B&E DPOS에선 투표를 받은 BP들의 Account로 투표 정보가 취합 되어 관리된다. 
 UTC+9 기준 매일 00:00시에 현재까지 지급받은 투표수를 취합하여 Moving Average Computation 방식으로 투표와 투표 영향력 차감이 진행된다. 
 
-전반적인 Structure는 다음과 같다: 
+이를 진행하기 위한 전반적인 Structure는 다음과 같다: 
 
  <img align="center" src="https://github.com/eosCHROME/Documentation/blob/master/KR/image/Burn%26Earn%20Structure%20ver0.01.jpg" width="800px" height="500px" />
+
+User가 CRM를 "Burn"하게 되면 CRM은 EOSIO.BNE로 보내지게 되며 EOSIO.BNE multi-index table에 유입된 CRM정보가 기입된다. 
+Index table 구성은 BP이름, 시간과, 보내진 CRM에 대비하여 기록되는 투표 양이 기록되게 된다. Data Storgae amount는 BP의 수(N)과 투표 저장 기간(T)의 곱으로 결정 된다. 이후 UTC+9hr(잠정)기준 매 24시간마다 취합된 CRM 양을 index table에 기록하게 된다. 이후 투표의 영향력은 index table의 entry를 하나씩 삭제하는 방식으로 진행 된다. Adjustmnet Period는 보다 정교한 emperical adjustment가 필요하다. 
+
+
