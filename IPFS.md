@@ -52,3 +52,7 @@ IPFS 적용 관련 URL:
 https://steemit.com/kr/@evasioner/part-5-ipfs
 영문 원본: https://medium.com/@mycoralhealth/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c
 
+1단계: EOS CHROME Local DB에 저장하고자 하는 텍스트 및 이미지를 IPFS로 업로드 진행 하고 해당 파일을 Pinning하는 방법으로 구현 
+2단계: 추가 EOS CHROME 노드를 구축하여 분산화 진행 
+
+
