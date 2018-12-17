@@ -48,3 +48,7 @@ We can actively bechmark how DTUBE is utilizing IPFS Store for their file storag
 Clone coding DTUBE, especially the part where they link IPFS storage and Steem Blockchain, can be very helpful for our future dAPP development.
 DTUBE github: https://github.com/dtube/dtube
 
+IPFS 적용 관련 URL:
+https://steemit.com/kr/@evasioner/part-5-ipfs
+영문 원본: https://medium.com/@mycoralhealth/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c
+
