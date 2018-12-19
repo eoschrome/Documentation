@@ -65,5 +65,9 @@ Index table 구성은 BP이름, 시간과, 보내진 CRM에 대비하여 기록�
 - (2) receiving BP-dAPP coins as a result of voting 
 - (3) 30-day moving average table segmented in 24 hours (GMT+9) to avoid Denial of Service and unnecessary overhead in keeping track of BP voting 
 
+2. Resource Allocation
+- option 1: Allocating resources based on received CRM in BP reserve pool -> Pitfall: How will users use computer resources? 
+- option 2: Everyone to lock CRM when using computer resources. i.e BPs, Users, Dapp developers must stake CRM to use resources. For users they have two options when it comes to using CRM. (1) Voting BP and earn rewards. (2) Staking and using hardware resources. 
+- option 3: Allowing CR locking rather than CRM locking. Therefore, main CR usage pertains to staking for resource allocation.
 
 
