@@ -76,7 +76,10 @@ Index table 구성은 BP이름, 시간과, 보내진 CRM에 대비하여 기록�
 ### There are three phases in developing Burn and Earn 
 1. Voting Weight implementation 
 - CR coins are transferred to each block producers in determining their BP weight(complete, testing in place)
+- Voting weight calculated by months(complete, testing in place)
+
 2. providing dAPP coin according to received CR coins (currently coding)
+
 3. Resource Allocation
 - Testing option 4: Block Producers delegation to users (future coding)
 
