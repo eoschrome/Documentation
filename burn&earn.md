@@ -71,7 +71,7 @@ Index table 구성은 BP이름, 시간과, 보내진 CRM에 대비하여 기록�
 - option 3: Allowing CR locking rather than CRM locking. Therefore, main CR usage pertains to staking for resource allocation.
 - option 4: Block Producers delegation (Most likely Solution)
 
-## 개발 Roadmap 및 진행 상황 Update 2018.12.18
+## 개발 Roadmap 및 진행 상황 Update 2019.1.2
 
 ### There are three phases in developing Burn and Earn 
 1. Voting Weight implementation 
