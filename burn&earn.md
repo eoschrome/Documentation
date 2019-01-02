@@ -69,5 +69,15 @@ Index table 구성은 BP이름, 시간과, 보내진 CRM에 대비하여 기록�
 - option 1: Allocating resources based on received CRM in BP reserve pool -> Pitfall: How will users use computer resources? 
 - option 2: Everyone to lock CRM when using computer resources. i.e BPs, Users, Dapp developers must stake CRM to use resources. For users they have two options when it comes to using CRM. (1) Voting BP and earn rewards. (2) Staking and using hardware resources. 
 - option 3: Allowing CR locking rather than CRM locking. Therefore, main CR usage pertains to staking for resource allocation.
+- option 4: Block Producers delegation (Most likely Solution)
+
+## 개발 Roadmap 및 진행 상황 Update 2018.12.18
+
+### There are three phases in developing Burn and Earn 
+1. Voting Weight implementation 
+- CR coins are transferred to each block producers in determining their BP weight(complete, testing in place)
+2. providing dAPP coin according to received CR coins (currently coding)
+3. Resource Allocation
+- Testing option 4: Block Producers delegation to users (future coding)
 
 
