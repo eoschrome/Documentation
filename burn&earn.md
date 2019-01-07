@@ -74,6 +74,7 @@ Index table 구성은 BP이름, 시간과, 보내진 CRM에 대비하여 기록�
 ## 개발 Roadmap 및 진행 상황 Update 2019.1.2
 
 ### There are three phases in developing Burn and Earn 
+
 1. Voting Weight implementation 
 - CR coins are transferred to each block producers in determining their BP weight(complete, testing in place)
 - Voting weight calculated by months(complete, testing in place)
@@ -83,4 +84,17 @@ Index table 구성은 BP이름, 시간과, 보내진 CRM에 대비하여 기록�
 3. Resource Allocation
 - Testing option 4: Block Producers delegation to users (future coding)
 
+## 개발 Roadmap 및 진행 상황 Update 2019.1.7
+
+### There are three phases in developing Burn and Earn 
+
+1. Voting Weight implementation(**complete**)
+- ***CR coins are transferred to each block producers in determining their BP weight(complete, testing complete)***
+- ***Voting weight calculated by months(complete, testing complete)***
+- Noted Issue: In updating the voting weight, the accumulation of votes assumed people are participating in the voting process everyday.  In order to solve this issue, we implemented a automatic renewal taking place everyday regardless of people's voting participation. This way, all block producers' vote are recorded in the same space in a voting weight able. 
+
+2. providing dAPP coin according to received CR coins (currently coding)
+
+3. Resource Allocation
+- Testing option 4: Block Producers delegation to users (future coding)
 
