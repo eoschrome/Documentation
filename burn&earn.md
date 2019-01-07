@@ -91,7 +91,7 @@ Index table 구성은 BP이름, 시간과, 보내진 CRM에 대비하여 기록�
 1. Voting Weight implementation(**complete**)
 - ***CR coins are transferred to each block producers in determining their BP weight(complete, testing complete)***
 - ***Voting weight calculated by months(complete, testing complete)***
-- Noted Issue: In updating the voting weight, the accumulation of votes assumed people are participating in the voting process everyday.  In order to solve this issue, we implemented a automatic renewal taking place everyday regardless of people's voting participation. This way, all block producers' vote are recorded in the same space in a voting weight able. 
+- Noted Issue: In updating the voting weight, the accumulation of votes assumed people are participating in the voting process everyday.  In order to solve this issue, we implemented a automatic renewal taking place everyday regardless of people's voting participation. This way, all block producers' vote are recorded in the same space in a voting weight table. 
 
 2. providing dAPP coin according to received CR coins (currently coding)
 
