@@ -1,4 +1,4 @@
-# EOS CHROME Technical White Paper v1.0
+# EOS CHROME Technical White Paper v1.0 
 
 **Oct 24, 2018**
 
