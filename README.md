@@ -16,14 +16,14 @@ eosio.system Contracts Analysis (100%)
 
 eosio.token Contracts Analysis (100%)
 
-eosio function call chart (on-going)
+eosio function call chart (100%)
 
-eosio flow chart (on-going)
+eosio flow chart (100%)
 
 ## Architecture Design
-Burn&Earn DPOS Algorithm (on-going)
+Burn&Earn DPOS Algorithm (80%)
 
-Burn&Earn DPOS Flow Chart (on-going)
+Burn&Earn DPOS Flow Chart (100%)
 
 Burn&Earn DPOS Internal Exchange (on-going)
 
@@ -34,19 +34,19 @@ Project DAPPNYX - dapp ecosystem (on-going)
 Project Inter-Contract Communication (on-going)
 
 ## Coding
-Burn&Earn DPOS Voting (pending)
+Burn&Earn DPOS Voting (100%)
 
-Burn&Earn DPOS Burning (pending)
+Burn&Earn DPOS Burning (100%)
 
-Burn&Earn DPOS Rewarding (pending)
+Burn&Earn DPOS Rewarding (50%)
 
-Burn&Earn DPOS BP Ranking (pending)
+Burn&Earn DPOS BP Ranking (100%)
 
-Burn&Earn DPOS Internal Exchange (pending)
+Burn&Earn DPOS Internal Exchange (pending until testnet v2.0)
 
-Inter-Contract Communication Protocol (pending)
+Inter-Contract Communication Protocol (pending until mainnet launch)
 
-DAPPNYX (pending)
+DAPPNYX (pending until testnet v1.0)
 
 ## Testing
 EOS CHROME Semi-Private Testnet (up&running)
