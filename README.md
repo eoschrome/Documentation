@@ -4,6 +4,44 @@
 - [Chinese](CN/TechnicalWhitePaper.md)
 - [Korean](KR/TechnicalWhitePaper.md)
 
+# EOS_CHROME NETWORK ROADMAP
+
+## Testnet v1.0
+
+### Milestones
+```
+1. Completion of 4-step Burn&Earn Algorithm
+2. Rigorous testing & debugging using A.I bots that generate real-time transactions and actions
+3. Network Monitor w/ various and presentable features
+4. EOS CHROME Wallet with send, resource allocation, and account creation functions
+5. Auto-build script
+```
+
+## Testnet v2.0
+
+### Milestones
+```
+1. Applying feedbacks from Testnet v1.0
+2. Constructing the interlinks between BP ranks and DAPPs
+3. Removal of voting function
+```
+
+## Testnet v3.0
+
+### Milestones
+```
+1. Applying feedbacks from Testnet v2.0
+2. Building a strong community of BPs for the follw-up mainnet launch
+3. Updating network boot instructions and script files.
+```
+
+## Mainnet v1.0: Trinity Network
+
+### Milestones
+```
+1. TBD
+```
+
 # On-Going Technical Tasks
 Tasks to be done before launching EOS CHROME Mainnet.
 
