@@ -33,13 +33,16 @@
 1. Applying feedbacks from Testnet v2.0
 2. Building a strong community of BPs for the follw-up mainnet launch
 3. Updating network boot instructions and script files.
+4. Dappnyx
 ```
 
 ## Mainnet v1.0: Trinity Network
 
 ### Milestones
 ```
-1. TBD
+1. Promoting Dappnyx Ecosystem
+2. Inter-contract Communication(ICC) v1.0 
+3. Healty Circulation of BPs
 ```
 
 # On-Going Technical Tasks
