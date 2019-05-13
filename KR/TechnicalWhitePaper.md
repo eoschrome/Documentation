@@ -29,7 +29,7 @@
 - [EOS CHROME Summary](#eos-chrome-summary)
 - [Conclusion](#conclusion)
 - [Roadmap](#roadmap)
-- [Token Distribution](#token distribution)
+- [Token Distribution] (#token distribution)
 
 Copyright © 2018 IBCT
 
