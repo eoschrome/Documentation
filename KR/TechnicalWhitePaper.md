@@ -306,10 +306,7 @@ EOS CHROME 글로벌 Tech meet-up 개최
 
 # Token Distribution
 ## 발행량
-<div>
 ![image](https://user-images.githubusercontent.com/40155368/57596832-b0472c80-7587-11e9-9e64-becc0a443e63.png)
-
-</div>
 
 EOS CHROME의 총 발행량은 10억 Chrome(CR)이다.
 
